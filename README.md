@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anvi-g
+- 👋 Hi, I’m @Ana
 - 👀 I’m interested in Front End Development, Reading and a lot more
 - 🌱 I’m currently learning a few coding lanuages like JavaScript, Python, etc.
 - 💞️ I’m looking to collaborate on a Front End Project
